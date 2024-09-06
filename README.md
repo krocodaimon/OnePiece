@@ -1,3 +1,5 @@
+PROJETO IMERSÃO DEV. GOOGLE GEMINI
+
 WiPiece: Sua Enciclopédia One Piece Pessoal! ‍☠️
 O que é o WiPiece?
 
