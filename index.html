@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WiPiece</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background"></div>
+    <header class="container">
+        <div class="cabeçalho">
+            <img src="images/logoonepiece.png" alt="Logo One Piece" width="400" height="auto">
+            <h1>WiPiece</h1>
+        </div>
+    </header>
+
+    <main>
+        <section id="sectionSearch" class="resultados-pesquisa">
+            <div class="descricao-meta">
+                <p id="descricao-meta">Wiki dedicada ao anime One Piece, onde os usuários podem pesquisar informações, curiosidades, e conteúdos relacionados ao universo da série</p>
+                <label for="campo-pesquisa">Descubra tudo sobre seu personagem favorito!</label>
+                <input type="text" id="campo-pesquisa" placeholder="Digite sua pesquisa">
+                <button onclick="pesquisar()" id="searchButton">Pesquisar</button>
+            </div>
+        </section>
+
+        <section id="resultSearch" class="resultados-pesquisa"></section>
+    </main>
+
+    <footer>
+        <address>
+            <p>&copy; 2024 WiPiece - Todos os direitos reservados</p>
+            <p>Criado por <u>Beatriz Santina</u></p>
+        </address>
+    </footer>
+
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
