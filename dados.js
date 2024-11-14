@@ -1,6 +1,6 @@
-let personagens = [
+const personagens = [
   {
-    "image": "images/luffydescription.png",
+    "image": "images/luffy.png",
     "id": 1,
     "name": "Monkey D Luffy",
     "size": "174cm",
@@ -29,7 +29,7 @@ let personagens = [
     "status": "living"
   },
   {
-    "image": "images/zoroimg.png",
+    "image": "images/zoro.png",
     "id": 2,
     "name": "Roronoa Zoro",
     "size": "181cm",
@@ -49,7 +49,7 @@ let personagens = [
     "status": "living"
   },
   {
-    "image": "images/namiimg.png",
+    "image": "images/nami.png",
     "id": 3,
     "name": "Nami",
     "size": "170cm",
@@ -69,7 +69,7 @@ let personagens = [
     "status": "living"
   },
   {
-    "image": "images/usoppimg.png",
+    "image": "images/usopp.png",
     "id": 4,
     "name": "Usopp",
     "size": "176cm",
@@ -89,6 +89,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image": "images/sanji.png",
     "id": 5,
     "name": "Sanji",
     "size": "180cm",
@@ -108,6 +109,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image": "images/chopper.png",
     "id": 6,
     "name": "Tony-Tony Chopper",
     "size": "90cm",
@@ -136,6 +138,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image":"images/robin.png",
     "id": 7,
     "name": "Nico Robin",
     "size": "188cm",
@@ -164,6 +167,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image":"images/franky.png",
     "id": 8,
     "name": "Franky",
     "size": "240cm",
@@ -183,6 +187,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image":"images/brook.png",
     "id": 9,
     "name": "Brook",
     "size": "277cm",
@@ -211,6 +216,7 @@ let personagens = [
     "status": "living"
   },
   {
+    "image":"images/jinbe.png",
     "id": 10,
     "name": "Jinbe",
     "size": "301cm",

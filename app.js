@@ -1,8 +1,8 @@
 function pesquisar() {
     console.log("Função pesquisar chamada");
 
-    let section = document.getElementById("resultSearch");
-    let campoPesquisa = document.getElementById("campo-pesquisa").value.trim().toLowerCase();
+    const section = document.getElementById("resultSearch");
+    const campoPesquisa = document.getElementById("campo-pesquisa").value.trim().toLowerCase();
     console.log("Campo de Pesquisa:", campoPesquisa);
 
     if (campoPesquisa === "") {
@@ -19,10 +19,11 @@ function pesquisar() {
         return;
     }
 
-    for (let personagem of personagens) {
+    for (const personagem of personagens) {
         console.log("Verificando personagem:", personagem.name);
 
         if (personagem.name.toLowerCase().includes(campoPesquisa) || 
+            // biome-ignore lint/complexity/useOptionalChain: <explanation>
             (personagem.crew && personagem.crew.name.toLowerCase().includes(campoPesquisa))) {
 
             resultados += `
