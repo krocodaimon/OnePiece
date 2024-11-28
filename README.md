@@ -15,19 +15,16 @@ O que você pode encontrar no WiPiece?
 Personagens: Detalhes completos sobre todos os seus personagens favoritos, desde os piratas mais poderosos até os personagens secundários mais engraçados.
 Frutas do Diabo: Descubra tudo sobre as misteriosas frutas do diabo, seus poderes e suas habilidades únicas.
 Equipes: Conheça as diferentes equipes de piratas e suas aventuras épicas.
-E muito mais!
-Como contribuir?
 
-Quer ajudar a deixar o WiPiece ainda mais incrível? Você pode contribuir com novas informações, traduções ou até mesmo criar novas funcionalidades! Para isso, basta entrar em contato comigo, a Beatriz Santina, a criadora desse projeto!
+
 
 Tecnologias utilizadas:
 
 HTML: A estrutura básica da página.
 CSS: Para deixar tudo bonitinho e organizado.
 JavaScript: A mágica por trás das pesquisas e exibição dos resultados.
-Dúvidas?
 
-Se tiver alguma dúvida, sugestão ou quiser apenas bater um papo sobre One Piece, fique à vontade para abrir uma issue aqui no GitHub!
+
 
 Vamos juntos explorar o mundo de One Piece!
 
